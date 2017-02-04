@@ -1,0 +1,59 @@
+{
+  "stickers" : [
+    {
+      "filename" : "Beever.stickersequence"
+    },
+    {
+      "filename" : "Dinosar.stickersequence"
+    },
+    {
+      "filename" : "Horse.stickersequence"
+    },
+    {
+      "filename" : "House.stickersequence"
+    },
+    {
+      "filename" : "Ice Cream.stickersequence"
+    },
+    {
+      "filename" : "Kat.stickersequence"
+    },
+    {
+      "filename" : "Me.stickersequence"
+    },
+    {
+      "filename" : "Michee Mouse.stickersequence"
+    },
+    {
+      "filename" : "My Plane.stickersequence"
+    },
+    {
+      "filename" : "Peenut.stickersequence"
+    },
+    {
+      "filename" : "Pretty.stickersequence"
+    },
+    {
+      "filename" : "Space Ship.stickersequence"
+    },
+    {
+      "filename" : "Ready To Trade.stickersequence"
+    },
+    {
+      "filename" : "Train.stickersequence"
+    },
+    {
+      "filename" : "Turkey.stickersequence"
+    },
+    {
+      "filename" : "Donkey.stickersequence"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "small"
+  }
+}
